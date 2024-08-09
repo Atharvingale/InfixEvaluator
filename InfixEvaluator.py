@@ -1,4 +1,4 @@
-exp = "(5+5)*(5+6)svsdfb*50"
+exp = "(5+5)*(5+6)*50"
 tokens = []
 number = ""
 for char in exp:
